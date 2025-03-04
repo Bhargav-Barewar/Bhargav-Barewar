@@ -1,5 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Bhargav Barewar</h1>
+[![MasterHead](https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif)](https://github.com/Bhargav-Barewar/)
+<h1 align="center">Hi 👋, I'm <bold>Bhargav Barewar</bold></h1>
 <h3 align="center">Data Engineer | Building Scalable Data Pipelines | Skilled in SQL, Python, Spark & Cloud</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
