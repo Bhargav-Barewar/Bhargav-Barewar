@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1YJQc50t8k3sGiMs7bZh_A1GDwHm4vYc_/view?usp=sharing)](https://rishavchanda.io)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtbJ7T5GLQlwYhfnmJ_XsWLtbccbtzk3Z7a1y_3OGFBV1NDQzDR2T43ShmLRj5siIXB1n0rfVLpgzMAwiUCtwNmX80hrC_rvAQuwpNSwrCjOvtXR5e2y7_8Vt3rjQ5BconJtCyLjn7Vdb9KbNQoqc85YnP3ywcTkBpTOeZTj4WawagPJFWKqe5eL9xsoY/s1321/Group%2019.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bhargav Barewar</h1>
 <h3 align="center">Data Engineer | Building Scalable Data Pipelines | Skilled in SQL, Python, Spark & Cloud</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
