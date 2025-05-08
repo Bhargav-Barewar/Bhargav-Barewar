@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working in **Rubixe - AI Solution Company**
 
-- 🌱 I’m currently learning **Postgres, Azure..**
+- 🌱 I’m currently learning **Snowflake, DBT..**
 
 - 📫 How to reach me **bhargavbarewar18@gmail.com**
 
