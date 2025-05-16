@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bhargavbarewar18@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1T-uFvk7PHjcsIvWVCFjL8fp7ryBelEdx/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Hl3ND6-egSDhTheMyol8Uc_hKJC_mozW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
